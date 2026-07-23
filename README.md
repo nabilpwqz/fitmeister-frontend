@@ -1,4 +1,4 @@
-# 🏋️ IronPulse — Fitness & Gym Management Platform (Frontend)
+# 🏋️ FITMEISTER — Fitness & Gym Management Platform (Frontend)
 
 ## 🚀 Project Overview
 IronPulse is a modern fitness platform where users can discover, book, and manage fitness classes while engaging in a community-driven forum. This frontend delivers a seamless, responsive, and interactive user experience across all roles — Users, Trainers, and Admins.
